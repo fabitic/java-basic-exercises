@@ -1,5 +1,5 @@
 import java.util.Scanner;
-
+// Programa que clasifica una nota de 0 a 10
 public class notas {
 
     public static void main(String[] args) {
