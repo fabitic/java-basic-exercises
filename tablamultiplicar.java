@@ -17,7 +17,7 @@ public class tablamultiplicar {
 
         // Bucle: tabla de multiplicar
         System.out.println("Tabla de multiplicar del " + numero + ":");
-        for (int i = 1; i <= 10; i++) {
+        for (int i = 1; i <= 12; i++) {
             System.out.println(numero + " x " + i + " = " + (numero * i));
         }
 
